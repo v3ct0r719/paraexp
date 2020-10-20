@@ -26,4 +26,4 @@ A tool for parallely exploiting multiple targets concurrently. Mostly used for A
 }
 ``` 
 3) just run the build.sh if you want to build the binary. (Remember to install `go` in your system before doing so)
-4) `./paraexp exploit.py congif.json``
+4) `./paraexp exploit.py congif.json`
